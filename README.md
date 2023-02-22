@@ -11,7 +11,6 @@
 </div>
   <a>
      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank">
-     <img src="https://www.clipartmax.com/png/middle/147-1474351_javascript-icon.png" target="blank">
     
 </a>
  
