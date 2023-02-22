@@ -11,7 +11,7 @@
 </div>
   <a>
      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank">
-     <img src="[https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg](https://e7.pngegg.com/pngimages/490/824/png-clipart-product-design-logo-brand-trademark-javascript-logo-text-trademark-thumbnail.png](https://e7.pngegg.com/pngimages/490/824/png-clipart-product-design-logo-brand-trademark-javascript-logo-text-trademark-thumbnail.png)" target="blank">
+     <img src="https://www.clipartmax.com/png/middle/147-1474351_javascript-icon.png" target="blank">
     
 </a>
  
