@@ -1,4 +1,4 @@
-## Igor Flores, 6° Período de Sistemas de Informação 
+## Igor Flores, 7° Período de Sistemas de Informação 
 <div align="center">
   <a href="https://github.com/IgorFlores2003">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorFlores2003&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
