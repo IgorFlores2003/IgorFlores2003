@@ -12,5 +12,5 @@
 
 <!-- Adicione a cobrinha abaixo deste comentário -->
 <div align="center">
-  <img src="https://github.com/IgorFlores2003/.github/workflows/main.yml" alt="Snake animation" style="max-width: 100%;">
+  <img src="https://github.com/IgorFlores2003/IgorFlores2003/blob/main/.github/workflows/main.yml" alt="Snake animation" style="max-width: 100%;">
 </div>
