@@ -12,5 +12,5 @@
 
 <!-- Adicione a cobrinha abaixo deste comentário -->
 <div align="center">
-  <img src="COLOQUE_O_LINK_DA_COBRINHA_AQUI" alt="Snake animation" style="max-width: 100%;">
+  <img src="https://github.com/Platane/snk" alt="Snake animation" style="max-width: 100%;">
 </div>
