@@ -51,4 +51,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secret.snake }}
+          GITHUB_TOKEN: ${{ secrets.snake }}
