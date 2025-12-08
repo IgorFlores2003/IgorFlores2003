@@ -1,8 +1,10 @@
 <div align="center">
-  <a href="https://github.com/IgorFlores2003">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFlores2003&layout=donut&theme=dark" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorFlores2003&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFlores2003&layout=donut&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IgorFlores2003&theme=dark" />
+
 </div>
+
 
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/igor-flores-509794235/" target="_blank">
