@@ -1,5 +1,9 @@
 name: Generate Snake
 
+# 👇 IMPORTANTE: permite escrever no repositório
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 0 * * *"   # roda todo dia à meia-noite (UTC)
