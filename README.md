@@ -1,8 +1,6 @@
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorFlores2003&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFlores2003&layout=donut&theme=dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IgorFlores2003&theme=dark" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IgorFlores2003&theme=dark" alt="Most Used Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IgorFlores2003&theme=dark" alt="Most Commit Languages" />
 </div>
 
 
