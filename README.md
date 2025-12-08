@@ -1,8 +1,6 @@
 <div align="center">
   <a href="https://github.com/IgorFlores2003">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IgorFlores2003&theme=dark" alt="Most Used Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IgorFlores2003&theme=dark" alt="Most Commit Languages" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFlores2003&layout=donut&theme=dark" />
   </a>
 </div>
 
