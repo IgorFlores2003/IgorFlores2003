@@ -4,13 +4,14 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFlores2003&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
+
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/igor-flores-509794235/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
 
-<!-- Adicione a cobrinha abaixo deste comentário -->
+<!-- Snake -->
 <div align="center">
-  <img src="https://github.com/IgorFlores2003/IgorFlores2003/blob/main/.github/workflows/main.yml" alt="Snake animation" style="max-width: 100%;">
+  <img src="https://github.com/IgorFlores2003/IgorFlores2003/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%;">
 </div>
